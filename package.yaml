@@ -1,0 +1,8 @@
+# Package definition for gitui
+
+package_name: gitui
+github_repo: gitui-org/gitui
+artifact_format: tar.gz
+description: "Blazing fast terminal UI for git."
+
+# Build for all Debian suites and all supported architectures.
