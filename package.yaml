@@ -2,6 +2,7 @@
 
 package_name: gitui
 github_repo: gitui-org/gitui
+license: MIT
 artifact_format: tar.gz
 description: "Blazing fast terminal UI for git."
 
